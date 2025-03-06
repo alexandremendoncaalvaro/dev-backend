@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marllon\\Desktop\\dev-backend-test\\dev-backend-test\\api-csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5A801E-68E0-4DDF-A8EA-4BFE5A3077F9}|api-csharp.csproj|c:\\users\\marllon\\desktop\\dev-backend-test\\dev-backend-test\\api-csharp\\controllers\\predictcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5A801E-68E0-4DDF-A8EA-4BFE5A3077F9}|api-csharp.csproj|solutionrelative:controllers\\predictcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5A801E-68E0-4DDF-A8EA-4BFE5A3077F9}|api-csharp.csproj|c:\\users\\marllon\\desktop\\dev-backend-test\\dev-backend-test\\api-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF5A801E-68E0-4DDF-A8EA-4BFE5A3077F9}|api-csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marllon\\Desktop\\dev-backend-test\\dev-backend-test\\api-csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marllon\\Desktop\\dev-backend-test\\dev-backend-test\\api-csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:13:42.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PredictController.cs",
+              "DocumentMoniker": "C:\\Users\\Marllon\\Desktop\\dev-backend-test\\dev-backend-test\\api-csharp\\Controllers\\PredictController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PredictController.cs",
+              "ToolTip": "C:\\Users\\Marllon\\Desktop\\dev-backend-test\\dev-backend-test\\api-csharp\\Controllers\\PredictController.cs",
+              "RelativeToolTip": "Controllers\\PredictController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:27:23.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
