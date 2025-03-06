@@ -38,7 +38,7 @@
 2. Crie um ambiente virtual e instale as dependências:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # No Windows use: venv\Scripts\activate
+    venv\Scripts\activate
     pip install -r requirements.txt
     ```
 
